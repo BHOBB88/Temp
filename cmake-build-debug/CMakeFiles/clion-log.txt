@@ -1,0 +1,6 @@
+C:\Users\User\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" C:\Users\User\OneDrive\Documents\Projects\Programs\Weather_Parts\Temp
+-- Configuring done
+CMake Error: Cannot determine link language for target "CMakeLists".
+CMake Error: CMake can not determine linker language for target: CMakeLists
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.

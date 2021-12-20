@@ -1,0 +1,5 @@
+C:/Users/User/OneDrive/Documents/Projects/Programs/Weather_Parts/Temp/cmake-build-debug/CMakeFiles/Temp.dir
+C:/Users/User/OneDrive/Documents/Projects/Programs/Weather_Parts/Temp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive/Documents/Projects/Programs/Weather_Parts/Temp/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/User/OneDrive/Documents/Projects/Programs/Weather_Parts/Temp/cmake-build-debug/CMakeFiles/CMakeLists.dir
+C:/Users/User/OneDrive/Documents/Projects/Programs/Weather_Parts/Temp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
